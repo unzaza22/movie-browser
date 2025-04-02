@@ -1,6 +1,6 @@
 {
-  "name": "movie-browser",
-  "short_name": "movie-browser",
+  "name": "Movie Browser",
+  "short_name": "Movie Browser",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
