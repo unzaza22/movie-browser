@@ -22,7 +22,7 @@ export class MovieListComponent {
         this.service.searchMovies(q)
         .subscribe(resp=>this.movies=resp.Search)
       }
-    )
+    );
   
   }
 
